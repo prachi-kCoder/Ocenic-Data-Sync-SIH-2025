@@ -3,8 +3,13 @@
 This project regulates siloed oceanic data—weather, microorganisms, fisheries—and automates the entire data workflow using FastAPI.
 
 ## 🚀 FastAPI Server Setup
+- Make a sih_project folder :
+- Under it make server  {subfolder}
+
+`sih_project/server/..................{All other files of the this ie the models , providers, tools, .... etc}`
 
 ### 1. Clone the Repository
+
 ```bash
 git clone https://github.com/prachi-kCoder/SIH-2025-Oceno-Data-Pipelines.git
 cd SIH-2025-Oceno-Data-Pipelines/server
